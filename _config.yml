@@ -28,7 +28,8 @@ twitter_username: Utpal_Kmr
 github_username: earthinversion-webdev
 
 # Build settings
-theme: minima
+# removed minima theme as it is now regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
